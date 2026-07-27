@@ -13,7 +13,7 @@ XyphreFX is an open-source desktop application that adds immersive weather anima
 * ❄️ Rain, snow, fog, and more
 * ⚡ Smooth animations
 * 🎨 Lightweight and customizable
-* 🖥️ Designed for Windows
+* 🖥️ Designed for Windows (and linux, I think so)
 * 🚀 Open source
 
 ## 📥 Installation
