@@ -24,7 +24,7 @@ XyphreFX is an open-source desktop application that adds immersive weather anima
 4. Launch XyphreFX and enjoy!
 
 
-> **Note:** Because XyphreFX is a new application and is not digitally signed yet, Windows SmartScreen or Microsoft Defender may display a warning. This is common for newly released software. And this app has two options to be displayed in. 1) is the windowed mode 2) is the desktop mode .You can change in what mode you wanna set when you start up your computer.
+> **Note:** Because XyphreFX is a new application and is not digitally signed yet, Windows SmartScreen or Microsoft Defender may display a warning. This is common for newly released software. And this app has two options to be displayed in. 1) is the windowed mode 2) is the desktop mode .You can change in what mode you wanna set when you start up your computer. Its not my fault that it dosent boot in desktop mode everytime (bug! will be fixed in 2.0)
 
 > **Note:** This is v1.0, so most things arent polished yet. In V2.0 every gui WILL be polished.
 > **Note(i swear this is the last one):** This is my FIRST time making a github repo, i wish that this thing blows up. And this is my first time in github.
